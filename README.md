@@ -18,7 +18,6 @@ public void update(String params) {
 }
 
 maven依赖：
-
 <dependency>
     <groupId>com.github.houbbbbb</groupId>
     <artifactId>cache-spring-boot-starter</artifactId>
